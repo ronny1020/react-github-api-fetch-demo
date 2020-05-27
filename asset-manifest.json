@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-app/react-github-api-fetch-demo/static/css/main.77038df6.chunk.css",
-    "main.js": "/my-app/react-github-api-fetch-demo/static/js/main.12280663.chunk.js",
-    "main.js.map": "/my-app/react-github-api-fetch-demo/static/js/main.12280663.chunk.js.map",
-    "runtime-main.js": "/my-app/react-github-api-fetch-demo/static/js/runtime-main.1636901b.js",
-    "runtime-main.js.map": "/my-app/react-github-api-fetch-demo/static/js/runtime-main.1636901b.js.map",
-    "static/js/2.0f3f4383.chunk.js": "/my-app/react-github-api-fetch-demo/static/js/2.0f3f4383.chunk.js",
-    "static/js/2.0f3f4383.chunk.js.map": "/my-app/react-github-api-fetch-demo/static/js/2.0f3f4383.chunk.js.map",
-    "index.html": "/my-app/react-github-api-fetch-demo/index.html",
-    "precache-manifest.d7c4bc848bc88a2f870a90a29ba379bf.js": "/my-app/react-github-api-fetch-demo/precache-manifest.d7c4bc848bc88a2f870a90a29ba379bf.js",
-    "service-worker.js": "/my-app/react-github-api-fetch-demo/service-worker.js",
-    "static/css/main.77038df6.chunk.css.map": "/my-app/react-github-api-fetch-demo/static/css/main.77038df6.chunk.css.map",
-    "static/js/2.0f3f4383.chunk.js.LICENSE.txt": "/my-app/react-github-api-fetch-demo/static/js/2.0f3f4383.chunk.js.LICENSE.txt"
+    "main.css": "/react-github-api-fetch-demo/static/css/main.77038df6.chunk.css",
+    "main.js": "/react-github-api-fetch-demo/static/js/main.c228c087.chunk.js",
+    "main.js.map": "/react-github-api-fetch-demo/static/js/main.c228c087.chunk.js.map",
+    "runtime-main.js": "/react-github-api-fetch-demo/static/js/runtime-main.a5f2f66c.js",
+    "runtime-main.js.map": "/react-github-api-fetch-demo/static/js/runtime-main.a5f2f66c.js.map",
+    "static/js/2.0f3f4383.chunk.js": "/react-github-api-fetch-demo/static/js/2.0f3f4383.chunk.js",
+    "static/js/2.0f3f4383.chunk.js.map": "/react-github-api-fetch-demo/static/js/2.0f3f4383.chunk.js.map",
+    "index.html": "/react-github-api-fetch-demo/index.html",
+    "precache-manifest.d1570c01b2592425eca81ed4a2eec2fb.js": "/react-github-api-fetch-demo/precache-manifest.d1570c01b2592425eca81ed4a2eec2fb.js",
+    "service-worker.js": "/react-github-api-fetch-demo/service-worker.js",
+    "static/css/main.77038df6.chunk.css.map": "/react-github-api-fetch-demo/static/css/main.77038df6.chunk.css.map",
+    "static/js/2.0f3f4383.chunk.js.LICENSE.txt": "/react-github-api-fetch-demo/static/js/2.0f3f4383.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1636901b.js",
+    "static/js/runtime-main.a5f2f66c.js",
     "static/js/2.0f3f4383.chunk.js",
     "static/css/main.77038df6.chunk.css",
-    "static/js/main.12280663.chunk.js"
+    "static/js/main.c228c087.chunk.js"
   ]
 }
