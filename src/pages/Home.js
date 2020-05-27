@@ -4,7 +4,7 @@ import { getProduct } from '../actions/getGitHubAPI'
 
 function Home(props) {
   const { getProduct, repos } = props
-  const [user, setUser] = React.useState('ronny1020')
+  const user = 'ronny1020'
   const [numOfRows, setNumOfRows] = React.useState(1)
 
   const columns = ['id', 'name', 'description', 'size', 'url']
@@ -59,7 +59,6 @@ function Home(props) {
   return (
     <div className="container">
       <h1 className="m-5">GitHubAPI DEMO</h1>
-
       <table className="table table-striped">
         <thead className="thead-dark">
           <tr>{thead_th}</tr>
